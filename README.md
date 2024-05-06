@@ -1,8 +1,8 @@
-# CS567 Project - Exploring bagging and boosting
+# CSCI 567 Project - Exploring bagging and boosting
 
 ## Jupyter notebooks used to generate results:
 
-To generate results included in the report, please run the following notebooks.
+To generate the results included in the report, please run the following notebooks.
 
 * ```main.ipynb``` and ```main_GPU.ipynb``` in the branch ```Niccolo-Refactor```: Tests
 bagging on logistic regression with certain parameters (number of training examples, 
